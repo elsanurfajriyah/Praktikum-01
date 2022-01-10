@@ -1,0 +1,15 @@
+{
+  "name": "praktikum_01",
+  "version": "1.0.0",
+  "description": "praktikum 1",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "elsa nur fajriyah",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^8.5.0",
+    "prettier": "^2.5.1"
+  }
+}
